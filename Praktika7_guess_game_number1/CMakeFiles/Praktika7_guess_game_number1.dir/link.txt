@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/Praktika7_guess_game_number1.dir/prog.c.o -o Praktika7_guess_game_number1

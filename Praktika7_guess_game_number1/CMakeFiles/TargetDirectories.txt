@@ -1,0 +1,3 @@
+/home/kali/Praktika7_guess_game_number1/CMakeFiles/Praktika7_guess_game_number1.dir
+/home/kali/Praktika7_guess_game_number1/CMakeFiles/edit_cache.dir
+/home/kali/Praktika7_guess_game_number1/CMakeFiles/rebuild_cache.dir
